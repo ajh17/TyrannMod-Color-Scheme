@@ -138,6 +138,30 @@
 				<string>#396DD3</string>
 			</dict>
 		</dict>
+        <dict>
+            <key>name</key>
+            <string>Embedded Ruby Punctuation</string>
+            <key>scope</key>
+            <string>string punctuation.section.embedded.ruby</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#ac15a5</string>
+            </dict>
+        </dict>
+        <dict>
+        <key>name</key>
+        <string>Embedded Ruby Source</string>
+        <key>scope</key>
+        <string>string source.ruby.embedded.source</string>
+        <key>settings</key>
+        <dict>
+            <key>fontStyle</key>
+            <string>italic</string>
+            <key>foreground</key>
+            <string>#c2b9c3</string>
+        </dict>
+        </dict>
 		<dict>
 			<key>name</key>
 			<string>Inherited class</string>
